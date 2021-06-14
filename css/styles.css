@@ -1,0 +1,10 @@
+.fwm {
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.btn {
+    background-color: rgb(30, 255, 0);
+    color: rgb(12, 10, 1);
+}
