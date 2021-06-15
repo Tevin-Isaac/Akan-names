@@ -6,6 +6,9 @@ This is a web application that takes a user's birthday and calculates the day of
 |Behaviour| Input| Output|
 |:--------|:-----|:------|
 |Dialog box opens| User enters required credentials| Akan name displayed|
+
+![1](https://user-images.githubusercontent.com/81568615/122054918-ca9c0600-cdf0-11eb-914c-7c7a506a34b9.png)
+![2](https://user-images.githubusercontent.com/81568615/122054936-ce2f8d00-cdf0-11eb-8b86-243c4f646593.png)
 ## Setup/Installation Requirements
 * Create an account on Github
 * Fork the repository from Github:[https://github.com/Tevin-creator/Akan-names](https://github.com/Tevin-creator/Akan-names)
